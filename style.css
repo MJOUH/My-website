@@ -1,0 +1,44 @@
+h1{
+    font-size:40px;
+}
+#apps{
+    height:800px;
+    width:100%;
+    background-color:greenyellow;
+}
+#games{
+    height:800px;
+    width:100%;
+    background-color:rgb(255, 238, 47);
+}
+#chatbot{
+    height:800px;
+    width:100%;
+    background-color:rgb(106, 161, 227);
+}
+.line{
+    width:100px;
+    height:6px;
+    background-color:purple;
+    margin:8px auto;
+}
+body
+{
+    text-align: center;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+#myCarousel img
+{
+height:300px;
+    margin-top:35px;
+}
+.carousel-inner p
+{
+margin-top:15px;
+color: white;
+    font-size:20px;
+}
